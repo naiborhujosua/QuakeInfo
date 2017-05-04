@@ -1,5 +1,5 @@
 # QuakeInfo
-An Aplication for detecting an earthquake around the world. All the data are taken from [ API USGS](https://earthquake.usgs.gov/fdsnws/event/1/
+An Aplication for detecting an earthquake around the world. All the data are taken from [API USGS](https://earthquake.usgs.gov/fdsnws/event/1/)
 
 You probably need QuakeInfo as an application for people to know latest earthquake happened around the world.
 <img width="300" src="earthquake.png">
